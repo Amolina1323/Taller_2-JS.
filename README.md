@@ -1,1 +1,1 @@
-# Taller_1-JS
+# Taller_2-JS.
